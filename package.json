@@ -1,0 +1,25 @@
+{
+  "name": "vjudge-replays-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memset0/vjudge-replays-importer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memset0/vjudge-replays-importer/issues"
+  },
+  "homepage": "https://github.com/memset0/vjudge-replays-importer#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-xlsx": "^0.15.0",
+    "superagent": "^6.1.0",
+    "yaml": "^1.10.0"
+  }
+}
